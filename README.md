@@ -2,7 +2,7 @@
  
 ## Описание проектов
 
-| **Тема проекта** | **Название проекта** | **Описание** | **Используемые библиотеки** |
+| **Тема проекта** | **Название проекта** | **Описание** | **Используемые библиотеки и модули** |
 |----:|:----:|:----:|:----------|
 | Базовый Python | Музыка больших городов | Проверить на данных Яндекс Музыки гипотезы о разнице музыкальных предпочтений жителей Москвы и Петербурга | *pandas* |
 | Предобработка данных | Исследование надёжности заёмщиков | На вход подаются данные о клиентах банка. Необходимо определить, как влияют разные параметры на возврат кредита клиентом. | *pandas*  |
@@ -13,3 +13,5 @@
 | Обучение с учителем | Отток клиентов | Необходимо на данных о клиентах банка спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. | *pandas, matplotlib, numpy, sklearn, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, accuracy_score, roc_curve, StandardScaler, confusion_matrix, recall_score, precision_score, f1_score, roc_auc_score* |
 | Машинное обучение в бизнесе | Выбор локации для скважины | На данных о пробах нефти в трёх регионах построить модель для определения региона, где добыча принесёт наибольшую прибыль. Проанализировать возможную прибыль и риски техникой Bootstrap. | *pandas, matplotlib, numpy, scipy, sklearn, StandardScaler, LinearRegression, mean_squared_error* |
 | Сборный проект 2 | Восстановление золота из руды | Построить модель, предсказывающую коэффициент восстановления золота из золотосодержащей руды. | *pandas, numpy, matplotlib, plotly, seaborn, sklearn, mean_absolute_error, StandardScaler, DecisionTreeRegressor, RandomForestRegressor, cross_val_score, LinearRegression, DummyRegressor* |
+| Линейная алгебра | Защита персональных данных клиентов | Разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. | *pandas, numpy, matplotlib, sklearn, cross_val_score, LinearRegression, r2_score* |
+| Временные ряды | Прогнозирование заказов такси | Построить модель, прогнозирующую количество заказов такси на следующий час. | *pandas, matplotlib, statsmodels, seasonal_decompose, mean_squared_error, cross_val_score, RandomForestRegressor, CatBoostRegressor, LGBMRegressor, GridSearchCV, TimeSeriesSplit* |
