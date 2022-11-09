@@ -1,19 +1,19 @@
 # Проект №9 Сборный проект 2
 
 ### **Используемые библиотеки и модули**
-*pandas*
-*numpy*
-*matplotlib*
-*plotly*
-*seaborn*
-*sklearn*
-*mean_absolute_error*
-*StandardScaler*
-*DecisionTreeRegressor*
-*RandomForestRegressor*
-*cross_val_score*
-*LinearRegression*
-*DummyRegressor*
+ - *pandas*
+ - *numpy*
+ - *matplotlib*
+ - *plotly*
+ - *seaborn*
+ - *sklearn*
+ - *mean_absolute_error*
+ - *StandardScaler*
+ - *DecisionTreeRegressor*
+ - *RandomForestRegressor*
+ - *cross_val_score*
+ - *LinearRegression*
+ - *DummyRegressor*
 
 ### **Описание**
 
